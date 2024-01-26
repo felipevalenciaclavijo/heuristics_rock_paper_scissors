@@ -30,7 +30,7 @@ At this point, we discovered that every time any of the two players or both play
 
 ### Scenario 5: Heuristic vs User Bias (SUCCESS)
 
-After simulating 1000 games, the machine made the heuristic decisions and the user followed the biases of the heuristic decisions, we found that almost all the times the machine won, and we ended up with the machine winning around 99.9% of the times. The reason for not having a 100% is that the first decision made by the machine is random and from there, it starts to use the output of the previous round.
+After simulating 1000 games, the machine made the heuristic decisions and the user followed the biases of the heuristic decisions, we found that almost all the times the machine won, and we ended up with the machine winning around 99.9% of the times. The reason for not having a 100% is that the first decision made by the machine is always based on the assumption that the previous non-existent round is rock and from there, it starts to use the output of the previous round, but the first choice of the User Bias' program is a random, so sometimes the first round can be a win or a tie, then the machine always wins after a a tie or a win for the machine.
 
 ### Scenario 6: Heuristic vs User (PARTIAL SUCCESS)
 
