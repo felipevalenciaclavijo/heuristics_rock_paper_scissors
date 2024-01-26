@@ -8,7 +8,7 @@ This project tests the use of a common heuristic for playing and winning in the 
 
 I created 6 different scenarios and did some simulations to test the different outcomes:
 
-You can also watch a video about it [here](https://youtu.be/Ndine82s4k0).
+You can also watch a full video about it [here](https://youtu.be/Ndine82s4k0). (_Note. from [4:46](https://youtu.be/Ndine82s4k0?si=Tvo8iKGvWElM-9Sx&t=286) the simulations start, before it's an explanation of the code._)
 
 ### Scenario 1: Random vs Random
 
